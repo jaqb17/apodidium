@@ -1,0 +1,3 @@
+--exclude Pods
+--disable redundantSelf,trailingCommas
+--enable isEmpty
